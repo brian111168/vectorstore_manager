@@ -1,0 +1,8 @@
+langchain_chroma
+pandas
+langchain
+langchain_community
+pdfplumber
+langchain_core
+streamlit
+python-dotenv
